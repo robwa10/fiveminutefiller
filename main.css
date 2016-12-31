@@ -69,6 +69,7 @@ img {
 }
 #mc_embed_signup#mc-embedded-subscribe.button {
     background-color: rgba(158,158,158,1);
+    height: 48px;
 }
 #mc_embed_signup .mc-field-group {
     max-width: 400px;
