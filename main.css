@@ -133,7 +133,7 @@ h5 {
     width: 100%;
 }
 .bounceFade {
-    -webkit-animation: bounce 2s .3s 2, fadeOut 1s 4s forwards;
+    -webkit-animation: bounce 2s .3s, fadeOut 1s 2s forwards;
 }
 
 
