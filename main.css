@@ -112,8 +112,8 @@ svg {
     }
     
 /*  Image Styling  */    
-    img {
-        max-height: 400px;
+    svg {
+        max-height: 450px;
 }
     #logo {
         max-height: 225px;
