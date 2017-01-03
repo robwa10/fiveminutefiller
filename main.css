@@ -12,13 +12,13 @@ a {
 
 /*  Text Styling  */
 h1 {
-    font-weight: 500;
+    font-weight: 400;
 }
 h2 {
     font-weight: 200;
 }
 h5 {
-    font-weight: 100;
+    font-weight: 200;
 }
 .text-center {
     text-align: center;
