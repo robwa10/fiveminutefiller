@@ -52,13 +52,9 @@ h5 {
 
 
 /*  Image styling  */
-
-#logo {
-    max-height: 175px;
-    width: 100%;
-     padding-bottom: 30px;
+svg {
+    max-height: 700px;
 }
-
 
 /*  Email Signup Styling  */
 #mc-embedded-subscribe-form.validate {
@@ -136,14 +132,9 @@ h5 {
     }
     
 /*   Image Styling   */    
-    img {
-    width: 100%;
-    max-height: 500px;
-    }
-    #logo {
-        max-height: 350px;
-        width: 100%;
-        padding-bottom: 30px;
+   svg {
+    max-height: 700px;
+}
     }
 
 /*  Layout Styling  */
