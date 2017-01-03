@@ -49,6 +49,11 @@ h5 {
     flex-direction: row;
     justify-content: space-around;
 }
+.align-bottom {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
 
 
 /*  Image styling  */
@@ -58,6 +63,9 @@ svg {
 #logo {
     width: 100%;
     padding-bottom: 20px;
+}
+#scroll {
+    height: 50px;
 }
 
 /*  Email Signup Styling  */
